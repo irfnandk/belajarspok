@@ -7,6 +7,6 @@
     "vercel-build": "echo 'PHP app deployed'"
   },
   "dependencies": {
-    "vercel-php": "^0.4.0"
+    "vercel-php": "^0.4.5"
   }
 }
