@@ -1,0 +1,12 @@
+{
+  "name": "belajarspok",
+  "version": "1.0.0",
+  "description": "Aplikasi analisis struktur kalimat Bahasa Indonesia",
+  "main": "index.php",
+  "scripts": {
+    "vercel-build": "echo 'PHP app deployed'"
+  },
+  "dependencies": {
+    "vercel-php": "^0.4.0"
+  }
+}
